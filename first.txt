@@ -1,0 +1,1 @@
+My first commit using WSL with Github SSH. It's simple but it's a start for my new goal to become a full cycle developer 8D. Thank you: https://www.youtube.com/watch?v=rQgp84UUuG0
