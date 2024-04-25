@@ -1,0 +1,1 @@
+Segundo commit. Dessa vez instalei o WSL2 na maquina do meu trabalho e instalei o docker nativo no WSL. Tutorial: https://medium.com/@habbema/guia-de-instala%C3%A7%C3%A3o-do-docker-no-wsl-2-com-ubuntu-22-04-9ceabe4d79e8
