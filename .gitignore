@@ -1,2 +1,4 @@
 node/node_modules/
-mysql
+mysql 
+desafio-2-nginx-nodejs/node/node_modules/
+desafio-2-nginx-nodejs/node/.docker/mysql
